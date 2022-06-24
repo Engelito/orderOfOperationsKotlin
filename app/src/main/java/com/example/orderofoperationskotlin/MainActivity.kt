@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
     //take 4
 
 
+
     val equation = mutableListOf<String>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
