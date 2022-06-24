@@ -27,6 +27,7 @@ class MainActivity : AppCompatActivity() {
     //testing
     //take two
     //take three
+    //take 4
 
 
     val equation = mutableListOf<String>()
