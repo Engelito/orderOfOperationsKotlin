@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
     val text:String = orderInput.toString()
     //testing
     //take two
+    //take three
 
 
     val equation = mutableListOf<String>()
